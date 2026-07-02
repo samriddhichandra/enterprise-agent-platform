@@ -56,7 +56,7 @@ Response persisted to PostgreSQL
 ## Project Structure
 
 ```text
-agent-platform/
+enterprise-agent-platform/
   backend/
     main.py                 FastAPI app and route handlers
     config.py               Environment-based application settings
