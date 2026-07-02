@@ -1,0 +1,19 @@
+IT Support Guide (Sample Document)
+
+1. Password Resets
+Employees can reset their password via the self-service portal at
+portal.company.local/reset. Resets via IT helpdesk require manager approval
+and take up to 4 business hours.
+
+2. VPN Access
+VPN access is granted automatically to all full-time employees. Interns and
+contractors must request VPN access through their manager, approval takes
+1-2 business days.
+
+3. Hardware Requests
+New laptop requests go through the Asset Management system. Standard
+turnaround is 5 business days; expedited requests require director approval.
+
+4. Software Installation
+Employees may self-install software from the approved catalog. Any software
+outside the catalog requires a security review before installation.
